@@ -1,11 +1,7 @@
 #include <iostream>
-
 using namespace std;
 
 void main() {
-
-	cout << "Hello! This is Tyler Snow" << endl;
-
-
+	cout << "Hey y'all" << endl;
 	system("pause");
-}
+};
